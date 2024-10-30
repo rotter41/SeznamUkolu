@@ -1,0 +1,38 @@
+body
+{
+    background-color: grey;
+}
+
+#bt1
+{
+    color: white;
+    background-color: greenyellow;
+}
+
+ukol
+{
+    background-color: white;
+    margin-top: 5px;
+    border: solid red;
+    display: block
+}
+
+tl
+{
+    display: inline;
+    background-color: greenyellow;
+    color: white;
+}
+
+tl2
+{
+    margin-left: 10px;
+    display: inline;
+    background-color: black;
+    color: white;
+}
+
+#i2
+{
+    margin-left: 13px;
+}
